@@ -4,15 +4,17 @@
   Backend Developer · Ho Chi Minh City, Vietnam
 </p>
 
+<p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
+
 <br/>
 
 ## About Me
 
-- 🎓 3rd-year Software Engineering student at FPT University HCMC
-- 🌱 I'm currently learning **Spring Boot, backend system design, and a bit of hardware/architecture**
-- 🤝 I'm looking for help with **system design and scalable backend architecture**
-- 💬 Ask me about **.NET, Java Spring Boot, Backend Development, Business Analysis**
-- ⚡ Fun fact: **I play piano so much, my hands decided to start playing on their own 💀 (Parkinson...)**
+- 3rd-year Software Engineering student at FPT University HCMC
+- I'm currently learning **Spring Boot, .NET, backend system design, and a bit of hardware/architecture**
+- Fun fact: **I play piano so much, my hands decided to start playing on their own 💀 (Parkinson...)**
 <br/>
 
 ## Connect With Me
