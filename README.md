@@ -64,8 +64,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=angeltlh30&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=angeltlh30&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=stella30th&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=stella30th&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /><br/>
 </p>
 
 Glad to have you here. Explore my projects, follow my journey, and let’s connect! 🚀
