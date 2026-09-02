@@ -22,7 +22,7 @@
 <p align="left" >
   <a href="https://www.linkedin.com/in/thien-an-ho-le/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="43" /></a>
-  <a href="https://www.facebook.com/angeltlh30" target="_blank">
+  <a href="https://www.facebook.com/stella30th" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="43" /></a>
   <a href="https://dev.to/annyeon30" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" height="43" /></a>
