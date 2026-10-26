@@ -5,7 +5,7 @@
 <h1 align="center">Ho Le Thien An</h1>
 
 <p align="center">
-  <strong>Backend-Focused Fullstack Builder</strong>
+  <strong>Backend Developer - Ho Chi Minh, Viet Nam</strong>
 </p>
 
 <p align="center">
