@@ -59,7 +59,7 @@ Projects I am working on right now, from a multi-role management system to algor
   <tr>
     <td width="50%" valign="top">
       <strong>🏟️ <a href="https://github.com/SWP391-SportHub-Group4/sports-center-management-system">SportHub</a></strong><br /><br />
-      Multi-sport center management system (Gym, Badminton, Basketball) for the SWP391 course. Covers five roles (Admin, Manager, Coach, Member, Receptionist), membership and gym check-in, class enrollment with seat reservation, court rental and scheduling, VNPay-QR payment combined with a points wallet, reports, and an AI assistant.
+      Multi-sport center management system for the course. Covers five roles (Admin, Manager, Coach, Member, Receptionist), membership and gym check-in, class enrollment with seat reservation, court rental and scheduling, VNPay-QR payment combined with a points wallet, reports, and an AI assistant.
     </td>
     <td width="50%" valign="top">
       <strong>🎵 <a href="https://github.com/MusicStreamingPlaylistManager/MusicStreamingPlaylistManager">MusicStreamingPlaylistManager</a></strong><br /><br />
